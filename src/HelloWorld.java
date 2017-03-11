@@ -6,5 +6,6 @@ public class HelloWorld {
     public static void main(String[] args)
     {
         System.out.print("Hello World, welcome to intelliJ");
+	System.out.print("Hello World, by berka");
     }
 }
